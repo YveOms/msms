@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MSMS</string>
+    <string name="running">MSMS running</string>
+    <string name="disabled">MSMS disabled</string>
+    <string name="started">MSMS started.</string>
+    <string name="stopped">MSMS stopped.</string>
+    <string name="log_view_title">MSMS : Log View</string>
+    <string name="add_phone_title">MSMS : Add Phone</string>
+    <string name="expansion_packs_title">MSMS : SMS Rate Limit</string>
+    <string name="help_title">MSMS : Help</string>
+    <string name='test_phone_numbers_title'>MSMS : Test Phone Numbers</string>
+    <string name='ignored_phone_numbers_title'>MSMS : Ignored Phone Numbers</string>
+    <string name='forward_saved_title'>MSMS : Forward Saved Messages</string>
+    <string name='pending_messages_title'>MSMS : Pending Messages</string>
+    <string name='settings_title'>MSMS : Settings</string>
+    <string name="settings">Settings</string>
+    <string name="test">Test Connection</string>
+    <string name="check_now">Check Messages</string>
+    <string name="help">Help</string>
+    <string name="pending">Pending Msgs...</string>
+    <string name="retry_now">Retry</string>
+    <string name="forward_saved">Fwd Saved...</string>
+    <string name='service_started'>New messages will be forwarded to server</string>
+    <string name='test_phone_numbers'>When running MSMS in Test Mode,
+MSMS will only forward SMS messages from the phone numbers
+listed below. (Incoming SMS messages from other phone numbers will be saved
+in the normal Messaging inbox.)</string>
+    <string name='ignored_phone_numbers'>
+MSMS will ignore SMS messages from the phone numbers listed below.
+Incoming messages from these senders will be saved in the normal Messaging inbox.</string>
+</resources>
